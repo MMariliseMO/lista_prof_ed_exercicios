@@ -1,0 +1,1 @@
+#Ler um valor em reais e exibir o equivalente em dólares. A cotação do dia é inserida pelo usuário.

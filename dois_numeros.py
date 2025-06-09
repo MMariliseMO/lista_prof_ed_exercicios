@@ -3,7 +3,7 @@
 num1 = int(input("Informe o primeiro número: "))
 num2 = int(input("Informe o segundo número: "))
 
-print('\n*-*-*-*- Dividindo o 1º Número pelo 2º Número -*-*-*-*\n')
+print('\n*-*-*-*- Dividindo o 1º número pelo 2º número -*-*-*-*\n')
 
 if num2 != 0:
     dividendo1 = num1
@@ -18,7 +18,7 @@ if num2 != 0:
 else:
     print("O número é igual a 0 e não pode dividir por zero.")
 
-print('\n*-*-*-*- Dividindo o 2º Número pelo 1º Número -*-*-*-*\n')
+print('\n*-*-*-*- Dividindo o 2º número pelo 1º número -*-*-*-*\n')
 
 if num1 != 0:
     dividendo2 = num2
